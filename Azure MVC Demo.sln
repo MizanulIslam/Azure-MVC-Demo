@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure MVC Demo", "Azure MVC Demo\Azure MVC Demo.csproj", "{58453F2F-2B97-466D-82E3-43B22D1EDB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58453F2F-2B97-466D-82E3-43B22D1EDB74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58453F2F-2B97-466D-82E3-43B22D1EDB74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58453F2F-2B97-466D-82E3-43B22D1EDB74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58453F2F-2B97-466D-82E3-43B22D1EDB74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7545F5-095A-4D06-B223-EA1616B55512}
+	EndGlobalSection
+EndGlobal
